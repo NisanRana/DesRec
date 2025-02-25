@@ -2,7 +2,7 @@
 destination recommendation system 
 
 ## Files
-### test.py
+### demo.py
   is the main program. 
   used streamlit to create web application
 
