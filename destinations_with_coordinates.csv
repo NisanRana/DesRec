@@ -11,12 +11,12 @@ pID,pName,culture,adventure,wildlife,sightseeing,history,tags,province,latitude,
 10,Domukha Shivasatakshi,0,0.4,0.4,1,0,"picnic , river",1,26.660178,87.866482
 11,Dhanpal fort ,1,0,0,1,1,"fort, temple, hindu, hiking",1,26.598932,87.395393
 12,Koshi Barrage,0,0,0,0.6,1,landmarks,1,26.524783,86.929023
-13,"jhandi dada, Illam",0,1,0.4,1,0,"Sighting, hiking, landmarks.hills",1,,
+13,"jhandi dada, Illam",0,1,0.4,1,0,"Sighting, hiking, landmarks.hills",1,26.71393,87.89057
 14,"Indrenital, Damak",0,0.4,0,1,0,"hiking, lake, landmarks",1,,
 15,"Radha krishna mandir, Itahari",1,0,0,0.8,0.6,"hindu, temple",1,26.659759,87.2754526307211
 16,Chuli pokhari,0,0.8,0,0.8,0,"pond, hiking, landmarks,hills",1,,
-17,Namje village,0.6,0.8,0,1,0,"hiking,hills,landmarks,mountains",1,,
-18,Baraha Chhetra,1,0.4,0.4,0.6,0.8,"hindu, temple, hills,river",1,,
+17,Namje village,0.6,0.8,0,1,0,"hiking,hills,landmarks,mountains",1,26.8571621622269,87.3375239562668
+18,Baraha Chhetra,1,0.4,0.4,0.6,0.8,"hindu, temple, hills,river",1,26.82776,87.17156
 19,Betana wetland,0,0.4,1,1,0,"zoo, wetland,pond,wildlife",1,,
 20,"Kechana, jhapa",0,0,0,0.6,0.6,landmarks,1,26.3817125985623,87.9979968846036
 21,"Kanyam, Illam",0,0.4,0,1,0.6,"garden, hills, hiking, landmarks",1,,
@@ -125,7 +125,7 @@ pID,pName,culture,adventure,wildlife,sightseeing,history,tags,province,latitude,
 124,Chitwan national park,0.6,1,1,1,0.6,"trekking, wildlife,lakes,river",3,27.51682135,84.4382935202424
 125,Kalinchowk bhagwati temple,0.8,0,0,0.6,0.8,"Temple,sightseeing,Religious",3,,
 126,Baudhanath stupa,0.6,0,0,0.4,0.6,"Temple,statues",3,,
-127,Gosaikunda lake,0,0.8,0,0.4,0.6,"lake,trekking,mountain",3,,
+127,Gosaikunda lake,0,0.8,0,0.4,0.6,"lake,trekking,mountain",3,28.08267,85.413267
 128,Saping village,0.8,0.4,0,0.6,0.4,"hill,village,cultural,trekking",3,27.6564551,85.7360131
 129,Patan durbar square,0.8,0,0,0.6,0.8,"temples,statues,cultural,sculpture",3,27.6734454,85.3250350121863
 130,Changunarayan temple,0.6,0,0,0.6,0.8,"temples,statues,cultural,sculpture",3,27.6818997,85.4298676
@@ -265,7 +265,7 @@ pID,pName,culture,adventure,wildlife,sightseeing,history,tags,province,latitude,
 264,Jagannath Temple,1,0,0,0.6,0.6,"Hindu, temple, art",4,23.31688845,85.2818037794309
 265,Galeshwor Dham,0.8,0,0,0.6,0.6,"hindu, temple",4,,
 266,Maharani Than,0.6,0,0,0.6,0.6,"hindu, temple",4,,
-267,Malika Dhuri,0.8,0.4,0,1,0.2,"hills, mountains, hindu, temple",4,,
+267,Malika Dhuri,0.8,0.4,0,1,0.2,"hills, mountains, hindu, temple",4,28.63674,81.93922
 268,Karbakeli footpath,0.8,0.8,0.6,1,0.4,"hiking, trekking, hills, mountains, landmarks, village",4,,
 269,Singa Tatopani Kunda,0.4,0.4,0,0.6,0.2,"pond, landmarks",4,,
 270,Kaligandaki River,0,0,0.2,0.8,0.6,"river, landmarks",4,27.930913037574,83.8627347759648
@@ -472,7 +472,7 @@ pID,pName,culture,adventure,wildlife,sightseeing,history,tags,province,latitude,
 471,Deurali Cave,0,0.7,0,1,0,"hills, hiking, ponds, river, forest, cave , natural beauty",6,,
 472,"Shibalaya , Rukum",0.8,0,0,0.6,0.7,"history, hindu, temple",6,,
 473,Syarpu Lake,0,0,0.7,0.8,0,"lake, hills, natural beauty, wildlife",6,28.69591215,82.4858567588977
-474,Guerilla Trek,0.8,0.7,0.4,0.8,0.8,"history, trekking, hills, culture",6,,
+474,Guerilla Trek,0.8,0.7,0.4,0.8,0.8,"history, trekking, hills, culture",6,28.57547,83.22458
 475,Kapurkot,0.6,0,0,0.6,0,"village, hills, hiking",6,28.2313203,82.3507966
 476,"Mulpani Botanical Garden, salyan",0,0,0,1,0,"garden, hills, scenery",6,28.2465359,82.3523347847556
 477,Kumakh Hill,0.7,0,0,0.7,0,"hindu, pilgrimage, hill, scenery",6,,
@@ -504,7 +504,7 @@ pID,pName,culture,adventure,wildlife,sightseeing,history,tags,province,latitude,
 503,Ajaymerukot Durbar,0,0,0,0.6,0.6,"palace, history",7,,
 504,Parshuram Dham,0.8,0,0,0.6,0,"hindu, temple",7,,
 505,Tripura Sundari temple,0.6,0,0,0.6,0.2,"hindu, temple",7,23.5090775,91.4979988970689
-506,Patal bhuvaneshwor temple(cave),0.6,0.6,0,0.8,0,"hindu, temple, cave",7,,
+506,Patal bhuvaneshwor temple(cave),0.6,0.6,0,0.8,0,"hindu, temple, cave",7,29.68868,80.09432
 507,Raula kedar,0.7,0,0,0.6,0.6,"hindu, religious shrine, temple",7,,
 508,Ninglasaini Bhagwati,0.6,0,0,0.8,0,"hindu, temple",7,,
 509,Panchadewal Hat,0.6,0,0,0.6,0.6,"history, temple",7,,
@@ -515,4 +515,51 @@ pID,pName,culture,adventure,wildlife,sightseeing,history,tags,province,latitude,
 514,Ghoda Ghodi lake,0,0,0.6,0.8,0,"lake, wildlife, natural beauty",7,,
 515,Tikapur Park,0,0,0,0.7,0.7,"park, history, forest",7,28.53170535,81.1200850088515
 516,Godawari Ram Temple,0.8,0,0,0.8,0,"hindu, temple",7,27.6017473,85.3236257
-517,Karnali Bridge,0,0,0,0.8,0,"river, scenery ",7,28.64088575,81.283829
+l,Karnali Bridge,0,0,0,0.8,0,"river, scenery ",7,28.64088575,81.283829
+518,Kathmandu,1,0.6,0.4,1,1,"tourist,temple",3,27.7172,85.324
+519,Bhaktapur,1,0.4,0.2,0.8,1,"tourist,temple",3,27.6713,85.4298
+520,Patan,1,0.4,0.2,0.8,1,"tourist,temple",3,27.672,85.3413
+521,Pokhara,0.8,1,0.6,1,0.8,"tourist,lake,Nightclubs,club",4,28.2096,83.9856
+522,Chitwan National Park,0.6,0.8,1,0.6,0.6,tourist,3,27.529,84.354
+523,Lumbini,1,0.4,0.2,0.8,1,"tourist,temple",5,27.5319,83.4983
+524,Nagarkot,0.6,0.8,0.4,0.8,0.6,tourist,3,27.9091,85.55
+525,Bandipur,0.8,0.8,0.6,0.8,0.8,tourist,4,27.705,83.4968
+526,Gorkha,0.8,0.8,0.4,0.6,0.8,hill,4,27.6965,84.6332
+527,Pashupatinath Temple,1,0.2,0.2,0.6,1,"tourist,hindu,temple",3,27.7123,85.3483
+528,Boudhanath Stupa,1,0.2,0.2,1,0.8,"tourist,temple",3,27.7217,85.3606
+529,Swayambhunath Stupa,1,0.2,0.2,1,0.8,"tourist,temple",3,27.7145,85.2888
+530,Panauti,0.8,0.4,0.4,0.8,0.6,tourist,3,27.7641,85.6816
+531,Tansen,0.8,0.8,0.6,0.8,0.8,"tourist,hills",4,27.1333,83.45
+532,Ilam,0.6,0.6,0.8,0.6,0.6,"tourist,hils",1,26.9279,87.2754
+533,Janakpur,1,0.4,0.2,0.8,1,"tourist,temple",2,26.728,85.9272
+534,Dhangadhi,0.6,0.6,0.6,0.6,0.6,tourist,7,28.7059,80.6091
+535,Butwal,0.8,0.6,0.4,0.8,0.8,terai,5,27.6924,83.4392
+536,Rara Lake,0.4,1,0.8,1,0.4,"tourist,lake",6,30.3597,82.2222
+537,Muktinath,0.8,1,0.6,0.8,0.8,"tourist,temple",6,31.0081,83.829
+538,Jomsom,0.6,1,0.6,0.8,0.6,tourist,4,28.7732,83.6097
+539,Manang,0.6,1,0.6,0.8,0.6,tourist,4,28.5483,84.1462
+540,Everest Base Camp,0.6,1,0.4,1,0.6,"tourist,mountain",1,27.6964,86.73
+541,Sagarmatha National Park,0.6,1,0.4,1,0.6,"tourist, nature",1,27.9333,86.7167
+542,Dhulikhel,0.8,0.6,0.4,0.8,0.8,tourist,3,27.653,85.9957
+543,Hetauda,0.6,0.6,0.4,0.6,0.6,tourist,3,27.4314,85.3195
+544,Bardia National Park,0.6,0.8,1,0.6,0.6,"tourist,nature",5,28.6871,81.16
+545,Parsa National Park,0.6,0.6,0.8,0.6,0.6,"tourist,nature",3,27.1203,84.5336
+546,Kanchanpur National Park,0.6,0.6,0.8,0.6,0.6,"tourist,nature",7,28.4584,80.15
+547,Gosaikunda,0.6,1,0.8,1,0.6,"tourist,lake",3,28.1013,85.7564
+548,Phoksundo Lake,0.4,1,0.8,1,0.4,"tourist,lake",6,30.3826,81.1674
+549,Khaptad National Park,0.6,0.8,0.8,0.6,0.6,"tourist,nature",7,29.45,81.65
+550,Namobuddha,0.8,0.6,0.4,0.8,0.8,tourist,3,27.6889,86.3066
+551,Sankhu,0.8,0.6,0.4,0.8,0.8,tourist,3,27.7879,85.5333
+552,Chandragiri Hills,0.6,0.8,0.6,0.8,0.6,"tourist,hills,temple",3,27.5683,85.4656
+553,Nuwakot,0.6,0.6,0.4,0.6,0.6,tourist,3,27.9833,85.5833
+554,Dhankuta,0.6,0.8,0.6,0.6,0.6,tourist,1,26.742,87.2982
+555,Besisahar,0.6,1,0.6,0.8,0.6,tourist,4,28.2433,83.6153
+556,Tatopani,0.6,1,0.6,0.8,0.6,"tourist,lake",4,28.25,83.75
+557,Ghandruk,0.8,1,0.8,1,0.8,"tourist,hills",4,28.1438,83.8081
+558,Sarangkot,0.6,0.8,0.6,0.8,0.6,tourist,4,28.2092,83.9197
+559,Begnas Lake,0.6,0.8,0.6,1,0.6,tourist,4,28.1667,83.8333
+560,Fewa Lake,0.8,0.4,0.2,0.8,1,"tourist,lake",4,28.2316,83.9833
+561,Kirtipur,0.6,0.6,0.4,0.6,0.6,tourist,3,27.6478,85.3155
+562,Thankot,0.6,0.6,0.4,0.6,0.6,tourist,3,27.6289,85.3231
+563,Sundarijal,0.6,0.8,0.6,0.8,0.6,tourist,3,27.6769,85.4703
+564,mustang,0.9,0.3,0.3,1,0.3,"tourist,hills,temple",4,28.9985,83.8473
